@@ -97,7 +97,7 @@ Long term   →  AI/ML Engineer  |  Network Engineer
   with the content shown below in the README setup instructions.
 -->
 
-![Snake animation](https://raw.githubusercontent.com/socode6/socode6/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 </div>
 
