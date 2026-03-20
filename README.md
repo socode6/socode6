@@ -32,7 +32,7 @@ Long term   →  AI/ML Engineer  |  Network Engineer
 
 ## ⚡ Fun Facts
 
-- 🔍 Not your regular IT guy sleeping on the bed and infront on desk all the time, I love going out and travel
+- 🔍 Not your regular IT guy laying on the bed and infront on desk all the time, I love going out and travel
 - 🎮 My first "real" project was a game — and it somehow worked on the first run (almost)
 - 🧩 I think debugging is just detective work with a keyboard
 - 🌏 Based in Nepal 🇳🇵 — proving great engineers come from everywhere
@@ -103,12 +103,11 @@ Long term   →  AI/ML Engineer  |  Network Engineer
 
 ---
 
-## 📫 Connect
-
+📫 Connect
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-socode6-181717?style=for-the-badge&logo=github)](https://github.com/socode6)
-
+Show Image
+Show Image
+Show Image
 </div>
 
 ---
