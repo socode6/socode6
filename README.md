@@ -103,11 +103,14 @@ Long term   →  AI/ML Engineer  |  Network Engineer
 
 ---
 
-📫 Connect
+## 📫 Connect
+
 <div align="center">
-Show Image
-Show Image
-Show Image
+
+[![GitHub](https://img.shields.io/badge/GitHub-socode6-181717?style=for-the-badge&logo=github)](https://github.com/socode6)
+[![Instagram](https://img.shields.io/badge/Instagram-10__subodh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/10_subodh/)
+[![Facebook](https://img.shields.io/badge/Facebook-Subodh_Bhatta-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/subodh.bhatta.58)
+
 </div>
 
 ---
